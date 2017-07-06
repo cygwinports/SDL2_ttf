@@ -1,5 +1,5 @@
 NAME="SDL2_ttf"
-VERSION=2.0.12
+VERSION=2.0.14
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="SDL text rendering library"
